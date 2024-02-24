@@ -1,1 +1,1 @@
-# pratice
+print("hello)
